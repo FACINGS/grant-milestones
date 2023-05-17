@@ -20,7 +20,7 @@ The deliverables in this second milestone revolve around the new Data Import plu
 | 0b.    | Documentation       | https://github.com/FACINGS/collection-manager/blob/main/docs/plugin-import.md | Documentation of the data standard used by the import system and usage instructions.      |
 | 0c.    | Testing Guide       | https://github.com/FACINGS/collection-manager/blob/main/docs/testing-guide.md#3-testing-stage-2-milestone-2-deliverables | Includes testing script and sample data files. |
 | 0d.    | Docker              | https://github.com/FACINGS/collection-manager/blob/main/Dockerfile            | Instructions are included in the README.md "Getting started" guide.                       |
-| 1.     | Import Function     | https://creator.facings.io                                                    | Viewing an owned collection, click "Add-ons", then "Data Import". (Full details in Testing Guide) |
+| 1.     | Import Function     | https://creator.facings.io                                                    | Viewing an owned collection, click "Add-ons", then "Import". (Full details in Testing Guide) |
 | 2.     | Advanced Validation | https://creator.facings.io                                                    | See Testing Guide for testing script and more details.                                    |
 
 **Additional Information**
