@@ -1,4 +1,4 @@
-Milestone Delivery
+# Milestone Delivery
 
 **The [invoice form](https://forms.gle/wLuAzXKa9qYrZQob9) has been filled out correctly for this milestone and the delivery is according to the official [milestone delivery guidelines](https://github.com/eosnetworkfoundation/grant-framework/blob/master/docs/milestone-deliverables-guidelines.md).**
 
@@ -8,11 +8,11 @@ Milestone Delivery
 * **Contact Name:** Rob Konsdorf
 * **Contact email:** rob@facings.io
 
-**Context**
+## Context
 
 The deliverables in this second milestone revolve around the new Airdrop plugin. This plugin allows publishers to distribute or mint assets to a chosen list of accounts, either manually entered or selected from a query.
 
-**Deliverables**
+## Deliverables
 
 | Number | Deliverable         | Link                                                                          | Notes                                                                                     |
 | -----: | ------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
@@ -24,4 +24,4 @@ The deliverables in this second milestone revolve around the new Airdrop plugin.
 | 1.     | Airdrop Plugin Core | https://creator.facings.io/eos/plugins/airdrop                                | - Specify single & multiple recipients<br />- Specify drop assets by (a) minting a specific Template ID; or (b) transfer multiple Asset IDs<br />- Randomize recipients (i.e. mint numbers) using random.org<br />- Batch submits |
 | 2.     | Airdrop API Queries | https://creator.facings.io/eos/plugins/airdrop                                | Look-up Queries:<br />- everyone who has specific template<br />- everyone who doesn’t have specific templates within a collection<br />- everyone who has any item from a collection<br /><br />Unique Queries:<br />- option to send single or multiple assets to matched accounts       |
 
-**Additional Information**
+## Additional Information
